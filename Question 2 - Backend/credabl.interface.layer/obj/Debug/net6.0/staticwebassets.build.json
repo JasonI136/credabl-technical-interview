@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "Dkd9vvnRRnBKEf+0nQCOfvlOFV4fdiC5ovqAKinLVWc=",
+  "Source": "credabl.interface.layer",
+  "BasePath": "_content/credabl.interface.layer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Jason\\OneDrive\\Documents\\Software Projects\\Technical Interviews\\credabl.shared\\credabl.shared.csproj",
+      "Version": 2,
+      "Source": "credabl.shared",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

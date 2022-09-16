@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "credabl.service.layer/1.0.0": {
+        "dependencies": {
+          "credabl.interface.layer": "1.0.0",
+          "credabl.shared": "1.0.0"
+        },
+        "runtime": {
+          "credabl.service.layer.dll": {}
+        }
+      },
+      "credabl.interface.layer/1.0.0": {
+        "dependencies": {
+          "credabl.shared": "1.0.0"
+        },
+        "runtime": {
+          "credabl.interface.layer.dll": {}
+        }
+      },
+      "credabl.shared/1.0.0": {
+        "runtime": {
+          "credabl.shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "credabl.service.layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "credabl.interface.layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "credabl.shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

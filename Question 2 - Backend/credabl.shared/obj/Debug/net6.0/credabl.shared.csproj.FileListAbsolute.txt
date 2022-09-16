@@ -1,0 +1,17 @@
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\bin\Debug\net6.0\appsettings.json
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\bin\Debug\net6.0\credabl.shared.deps.json
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\bin\Debug\net6.0\credabl.shared.dll
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\bin\Debug\net6.0\credabl.shared.pdb
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\obj\Debug\net6.0\credabl.shared.csproj.AssemblyReference.cache
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\obj\Debug\net6.0\credabl.shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\obj\Debug\net6.0\credabl.shared.AssemblyInfoInputs.cache
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\obj\Debug\net6.0\credabl.shared.AssemblyInfo.cs
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\obj\Debug\net6.0\credabl.shared.csproj.CoreCompileInputs.cache
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\obj\Debug\net6.0\scopedcss\bundle\credabl.shared.styles.css
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\obj\Debug\net6.0\credabl.shared.dll
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\obj\Debug\net6.0\refint\credabl.shared.dll
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\obj\Debug\net6.0\credabl.shared.pdb
+C:\Users\Jason\OneDrive\Documents\Software Projects\Technical Interviews\credabl.shared\obj\Debug\net6.0\ref\credabl.shared.dll

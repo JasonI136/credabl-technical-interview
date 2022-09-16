@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "Hash": "k+prqiPkvoYY2bUQtPPN79mVK023BU2yOBBMr5iCkCo=",
+  "Source": "credabl.service.layer",
+  "BasePath": "_content/credabl.service.layer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Jason\\OneDrive\\Documents\\Software Projects\\Technical Interviews\\credabl.interface.layer\\credabl.interface.layer.csproj",
+      "Version": 2,
+      "Source": "credabl.interface.layer",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    },
+    {
+      "Identity": "C:\\Users\\Jason\\OneDrive\\Documents\\Software Projects\\Technical Interviews\\credabl.shared\\credabl.shared.csproj",
+      "Version": 2,
+      "Source": "credabl.shared",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
